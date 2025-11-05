@@ -2,8 +2,8 @@
 
 ## Complete Skills Implementation Status
 
-As of October 2025, the Hatch Lab contains **15 production-ready Claude Skills** for comprehensive product strategy and
-development. All skills follow the Anthropic Agent Skills specification and are ready for immediate use.
+> As of November 2025, the Hatch Lab contains **15 production-ready Claude Skills** for comprehensive product strategy
+> and development. All skills follow the Anthropic Agent Skills specification and are ready for immediate use.
 
 ## Skills Overview
 

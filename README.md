@@ -30,7 +30,7 @@ client.messages.create(
 
 - **New to product strategy?** → Start with `product-strategy-navigator` (guides you through entire journey)
 - **Have specific question?** → Jump to a specific skill (see catalog below)
-- **Need workflow guidance?** → See [SKILLS_DEPENDENCY_MAP.md](./SKILLS_DEPENDENCY_MAP.md)
+- **Need workflow guidance?** → See [Dependency Map](./SKILLS_DEPENDENCY_MAP.md)
 
 ---
 
@@ -85,11 +85,11 @@ client.messages.create(
 
 ## Documentation
 
-| Document                                                   | Purpose                                      |
-| ---------------------------------------------------------- | -------------------------------------------- |
-| **[SKILLS_CATALOG.md](./SKILLS_CATALOG.md)**               | Complete skill descriptions, success metrics |
-| **[SKILLS_DEPENDENCY_MAP.md](./SKILLS_DEPENDENCY_MAP.md)** | Workflows, dependencies, journey patterns    |
-| **[CONTRIBUTING.md](./CONTRIBUTING.md)**                   | Contribution guidelines and standards        |
+| Document                                         | Purpose                                      |
+| ------------------------------------------------ | -------------------------------------------- |
+| **[Catalog](./SKILLS_CATALOG.md)**               | Complete skill descriptions, success metrics |
+| **[Dependency Map](./SKILLS_DEPENDENCY_MAP.md)** | Workflows, dependencies, journey patterns    |
+| **[Contributing](./CONTRIBUTING.md)**            | Contribution guidelines and standards        |
 
 ---
 
@@ -132,7 +132,9 @@ client.messages.create(
 
 ## Contributing
 
-We welcome contributions! See **[CONTRIBUTING.md](./CONTRIBUTING.md)** for:
+We welcome contributions!
+
+See **[Contributing](./CONTRIBUTING.md)** for:
 
 - Skill development guidelines
 - Testing requirements
@@ -151,11 +153,16 @@ We welcome contributions! See **[CONTRIBUTING.md](./CONTRIBUTING.md)** for:
 
 ## Acknowledgments
 
-Built on [Anthropic's Agent Skills framework](https://docs.anthropic.com/claude/docs) and inspired by
-MIT's [Designing and Building AI Products and Services](https://xpro.mit.edu/courses/course-v1:xPRO+AIPSx+R1/) curriculum.
+Built on
+
+- [Anthropic's Agent Skills framework](https://docs.anthropic.com/claude/docs)
+
+and inspired by
+
+- MIT's [Designing and Building AI Products and Services](https://xpro.mit.edu/courses/course-v1:xPRO+AIPSx+R1/) curriculum
 
 ---
 
 ## License
 
-MIT - See [LICENSE](./LICENSE) file for details.
+MIT - See [License](./LICENSE) file for details.

@@ -439,10 +439,6 @@ BAD: Spending 20 hours on perfect strategy before any validation
 GOOD: Fast validation cycle, then deeper planning
 ```
 
-## Version History
-
-- **v1.0** (November 2025): Initial dependency map with all 15 skills
-
 ---
 
 _For questions about skill dependencies or sequencing, start with product-strategy-navigator or consult IMPLEMENTATION_GUIDE.md_

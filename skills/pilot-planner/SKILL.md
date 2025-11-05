@@ -5,7 +5,8 @@ description: Structures pilot programs, defines MVPs, establishes success criter
 
 # Pilot Planner Skill
 
-This skill helps you design and execute pilot programs that validate product-market fit while minimizing risk and maximizing learning velocity. Using lean startup principles, we'll create MVPs that test critical assumptions.
+This skill helps you design and execute pilot programs that validate product-market fit while minimizing risk and maximizing
+learning velocity. Using lean startup principles, we'll create MVPs that test critical assumptions.
 
 ## Core Capabilities
 
@@ -25,7 +26,7 @@ I can help you:
 
 #### MVP Scoping Matrix
 
-```text
+```
 MUST HAVE          SHOULD HAVE
 (Core Value)       (Enhancers)
     │                  │
@@ -68,7 +69,7 @@ COULD HAVE         WON'T HAVE
 
 #### Hypothesis Template
 
-```text
+```
 We believe [TARGET CUSTOMER]
 Will [BEHAVIOR/ACTION]
 Because [MOTIVATION/NEED]
@@ -102,7 +103,7 @@ We'll know this is true when [METRIC] reaches [TARGET]
 
 #### Pilot Structure Framework
 
-```text
+```
 ┌─────────────────────────────────────┐
 │         PILOT PARAMETERS            │
 ├─────────────────────────────────────┤
@@ -150,7 +151,7 @@ We'll know this is true when [METRIC] reaches [TARGET]
 
 #### North Star Metric Selection
 
-```text
+```
 ENGAGEMENT         GROWTH           REVENUE
 Daily Active      User Referrals   MRR/ARR
 Time in App       Viral Coeff.     ARPU
@@ -159,7 +160,7 @@ Feature Usage     Sign-up Rate      Conversion
 
 #### Pirate Metrics (AARRR)
 
-```text
+```
 Acquisition → Activation → Retention → Revenue → Referral
      ↓            ↓            ↓          ↓         ↓
 How users    First value   Come back    Pay      Tell others
@@ -186,7 +187,7 @@ find you     experience
 
 #### Risk Assessment Matrix
 
-```text
+```
         Low Impact    High Impact
 High    ┌─────────┬──────────┐
 Prob.   │ Monitor │ Critical │
@@ -207,7 +208,7 @@ Prob.   └─────────┴──────────┘
 
 #### Expansion Framework
 
-```text
+```
 PILOT SUCCESS
       ↓
 CONTROLLED EXPANSION
@@ -238,7 +239,7 @@ I'll help you create:
 
 ### Cohort-Based Pilots
 
-```text
+```
 Cohort 1 → Learn → Improve → Cohort 2 → Learn → Scale
 ```
 
@@ -251,7 +252,7 @@ Benefits:
 
 ### A/B Testing Framework
 
-```text
+```
 Control Group     vs    Treatment Group
 (Current State)         (New Solution)
       ↓                       ↓
@@ -277,28 +278,34 @@ Track validated learning through:
 
 ```markdown
 ### MVP Scope
+
 - Core: Real-time call analysis
 - Included: Basic coaching tips
 - Excluded: CRM integration, reporting
 
 ### Pilot Parameters
+
 - Duration: 8 weeks
 - Participants: 20 sales reps (2 teams)
 - Company Size: Mid-market B2B SaaS
 
 ### Success Criteria
+
 PRIMARY: 20% improvement in close rate
 SECONDARY:
+
 - 80% daily usage
 - NPS > 50
 - 15% reduction in ramp time
 
 ### Timeline
+
 Weeks 1-2: Setup & training
 Weeks 3-8: Active pilot
 Week 9: Analysis & decision
 
 ### Measurement Plan
+
 - Daily: Usage metrics
 - Weekly: Performance metrics
 - Bi-weekly: User interviews
@@ -308,6 +315,7 @@ Week 9: Analysis & decision
 ## Go/No-Go Decision Framework
 
 ### Green Light (Proceed to Scale)
+
 ✅ Primary metric exceeded
 ✅ Positive unit economics
 ✅ Strong user feedback
@@ -315,6 +323,7 @@ Week 9: Analysis & decision
 ✅ Clear path to scale
 
 ### Yellow Light (Iterate)
+
 ⚠️ Mixed results
 ⚠️ Need specific improvements
 ⚠️ Additional testing required
@@ -347,28 +356,34 @@ To plan your pilot:
 ## Pilot Program: [Name]
 
 ### Objective
+
 Test whether [hypothesis] is true
 
 ### Scope
+
 **Included**: [MVP features]
 **Excluded**: [Future features]
 
 ### Participants
+
 - Profile: [Description]
 - Number: [Count]
 - Recruitment: [Method]
 
 ### Timeline
+
 Start Date: [Date]
 End Date: [Date]
 Key Milestones: [List]
 
 ### Success Criteria
+
 - Metric 1: [Target]
 - Metric 2: [Target]
 - Qualitative: [Description]
 
 ### Resources
+
 - Budget: $[Amount]
 - Team: [Roles]
 - Infrastructure: [Needs]
@@ -382,16 +397,19 @@ Key Milestones: [List]
 ### Week [X] Update
 
 #### Primary Metrics
-| Metric | Target | Actual | Status |
-|--------|--------|--------|--------|
+
+| Metric | Target | Actual | Status   |
+| ------ | ------ | ------ | -------- |
 | [...]  | [...]  | [...]  | 🟢/🟡/🔴 |
 
 #### User Feedback
+
 - Positive Themes: [...]
 - Concerns: [...]
 - Feature Requests: [...]
 
 #### Next Actions
+
 1. [Action item]
 2. [Action item]
 ```

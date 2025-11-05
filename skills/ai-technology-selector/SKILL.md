@@ -5,7 +5,8 @@ description: Matches AI technologies to business problems, evaluates technical f
 
 # AI Technology Selector Skill
 
-This skill helps you identify and select the right AI technologies for your product, evaluate technical feasibility, and create implementation strategies that balance innovation with practical constraints.
+This skill helps you identify and select the right AI technologies for your product, evaluate technical feasibility, and
+create implementation strategies that balance innovation with practical constraints.
 
 ## Core Capabilities
 
@@ -25,7 +26,7 @@ I can help you:
 
 #### Cognitive Process Alignment
 
-```text
+```
 BUSINESS NEED → COGNITIVE CAPABILITY → AI TECHNOLOGY
 ```
 
@@ -55,7 +56,7 @@ BUSINESS NEED → COGNITIVE CAPABILITY → AI TECHNOLOGY
 
 #### Machine Learning Taxonomy
 
-```text
+```
 ┌─────────────────────────────────┐
 │         Supervised              │
 │  ├─ Regression                  │
@@ -76,7 +77,7 @@ BUSINESS NEED → COGNITIVE CAPABILITY → AI TECHNOLOGY
 
 #### Generative AI Options
 
-```text
+```
 TEXT                    IMAGE                   CODE
 ├─ GPT-4/Claude        ├─ Stable Diffusion    ├─ Codex/Copilot
 ├─ Llama/Mistral       ├─ Midjourney          ├─ CodeLlama
@@ -86,20 +87,20 @@ TEXT                    IMAGE                   CODE
 
 ### Step 3: Build vs. Buy Decision Matrix
 
-| Factor | Build | Buy | Hybrid |
-|--------|-------|-----|--------|
-| **When Appropriate** | Core differentiator | Commodity capability | Some customization needed |
-| **Time to Market** | 6-18 months | 1-3 months | 3-6 months |
-| **Cost Structure** | High upfront, low marginal | Low upfront, per-use pricing | Moderate both |
-| **Control** | Full | Limited | Partial |
-| **IP Ownership** | Full | None/Limited | Shared |
-| **Maintenance** | Internal team | Vendor | Shared |
+| Factor               | Build                      | Buy                          | Hybrid                    |
+| -------------------- | -------------------------- | ---------------------------- | ------------------------- |
+| **When Appropriate** | Core differentiator        | Commodity capability         | Some customization needed |
+| **Time to Market**   | 6-18 months                | 1-3 months                   | 3-6 months                |
+| **Cost Structure**   | High upfront, low marginal | Low upfront, per-use pricing | Moderate both             |
+| **Control**          | Full                       | Limited                      | Partial                   |
+| **IP Ownership**     | Full                       | None/Limited                 | Shared                    |
+| **Maintenance**      | Internal team              | Vendor                       | Shared                    |
 
 ### Step 4: Technical Feasibility Assessment
 
 #### Data Requirements Evaluation
 
-```text
+```
 DATA AVAILABILITY
      ├─ Volume: [Sufficient?]
      ├─ Quality: [Clean/Labeled?]
@@ -202,17 +203,20 @@ I'll help you create:
 
 ```markdown
 ### Primary Stack
+
 - **NLU Engine**: Claude API for understanding
 - **Knowledge Base**: Vector DB (Pinecone) + RAG
 - **Dialog Management**: Langchain orchestration
 - **Voice (Optional)**: Whisper + ElevenLabs
 
 ### Architecture
+
 - **Deployment**: Serverless (AWS Lambda)
 - **Monitoring**: Langfuse for LLM ops
 - **Feedback**: Human-in-the-loop for improvements
 
 ### Build vs Buy Decision
+
 - **Buy**: LLM capabilities (Claude API)
 - **Build**: Domain knowledge layer
 - **Hybrid**: Dialog orchestration
@@ -264,19 +268,23 @@ To recommend the best AI technology:
 ## AI Technology Recommendation
 
 ### Problem Statement
+
 [Description of business problem]
 
 ### Recommended Approach
+
 **Primary Technology**: [e.g., Transformer-based NLP]
 **Specific Implementation**: [e.g., Fine-tuned Claude]
 **Architecture Pattern**: [e.g., RAG with vector store]
 
 ### Rationale
+
 - **Why This Technology**:
 - **Alternatives Considered**:
 - **Key Tradeoffs**:
 
 ### Implementation Plan
+
 **Phase 1**: [Timeline & Milestones]
 **Phase 2**: [Timeline & Milestones]
 **Phase 3**: [Timeline & Milestones]
@@ -288,14 +296,17 @@ To recommend the best AI technology:
 ## Technical Risk Analysis
 
 ### High Risks
+
 - **Risk**: [Description]
   **Mitigation**: [Strategy]
 
 ### Medium Risks
+
 - **Risk**: [Description]
   **Mitigation**: [Strategy]
 
 ### Dependencies
+
 - External APIs
 - Data availability
 - Regulatory approval

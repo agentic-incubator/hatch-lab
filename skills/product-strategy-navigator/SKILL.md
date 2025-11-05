@@ -5,11 +5,12 @@ description: Master orchestrator skill that guides users through the complete pr
 
 # Product Strategy Navigator
 
-This master skill orchestrates your complete product strategy journey, from initial idea to scaled implementation. I coordinate specialized skills to guide you through each phase of product development.
+This master skill orchestrates your complete product strategy journey, from initial idea to scaled implementation.
+I coordinate specialized skills to guide you through each phase of product development.
 
 ## Navigation Framework
 
-```text
+```
 ┌─────────────────────────────────────────────────────┐
 │              PRODUCT STRATEGY JOURNEY               │
 ├─────────────────────────────────────────────────────┤
@@ -40,7 +41,7 @@ When you engage me, I'll first understand:
 
 **For**: Early-stage ideas, unclear problems
 
-```text
+```
 1. product-discovery → Deep problem exploration
 2. market-validation → Opportunity sizing
 3. ai-technology-selector → Technical feasibility
@@ -52,7 +53,7 @@ When you engage me, I'll first understand:
 
 **For**: Existing solution, need market validation
 
-```text
+```
 1. market-validation → Market demand assessment
 2. business-model-architect → Pricing & economics
 3. pilot-planner → Rapid testing
@@ -63,7 +64,7 @@ When you engage me, I'll first understand:
 
 **For**: Validated concept, ready to scale
 
-```text
+```
 1. pilot-planner → Scale strategy
 2. metrics-evaluator → Growth metrics
 3. pivot-advisor → Optimization guidance
@@ -75,7 +76,7 @@ When you engage me, I'll first understand:
 
 Skills activated in order, each building on previous outputs:
 
-```text
+```
 Skill A → Output → Skill B → Output → Skill C
 ```
 
@@ -83,7 +84,7 @@ Skill A → Output → Skill B → Output → Skill C
 
 Multiple skills working simultaneously on different aspects:
 
-```text
+```
         ┌→ Skill A →┐
 Input →┼→ Skill B →┼→ Synthesis
         └→ Skill C →┘
@@ -93,7 +94,7 @@ Input →┼→ Skill B →┼→ Synthesis
 
 Dynamic skill selection based on intermediate results:
 
-```text
+```
 Assessment → Route A (if X) → Skills 1,2,3
           → Route B (if Y) → Skills 2,4,5
           → Route C (if Z) → Skills 1,3,5
@@ -101,7 +102,7 @@ Assessment → Route A (if X) → Skills 1,2,3
 
 ## Navigation Decision Tree
 
-```text
+```
 START: "I have a product idea"
 │
 ├─ Q: Is the problem validated?
@@ -171,7 +172,7 @@ context:
 
 Results from later stages inform earlier decisions:
 
-```text
+```
 Pilot Results → Refine Problem Definition
 User Feedback → Adjust Business Model
 Market Response → Pivot Technology Choice
@@ -181,7 +182,7 @@ Market Response → Pivot Technology Choice
 
 ### Example 1: B2B SaaS Innovation
 
-```text
+```
 Week 1-2: product-discovery
 - Identified: Manual reporting pain in logistics
 - Stakeholders: Operations managers
@@ -205,7 +206,7 @@ Week 9-12: pilot-planner
 
 ### Example 2: Consumer Mobile App
 
-```text
+```
 Day 1-7: product-discovery
 - Problem: Meal planning for busy parents
 - Key insight: Decision fatigue at 5pm
@@ -299,6 +300,7 @@ At the end of our journey, you'll have:
 ## Product Strategy Roadmap: [Your Product]
 
 ### Executive Summary
+
 - Problem: [Validated problem statement]
 - Solution: [Product/service description]
 - Market: [Size and opportunity]
@@ -306,24 +308,29 @@ At the end of our journey, you'll have:
 - Plan: [Path to scale]
 
 ### Phase 1: Discovery & Validation (Weeks 1-4)
+
 - Deliverables: [List]
 - Decisions: [Go/No-go points]
 - Resources: [Required]
 
 ### Phase 2: Design & Build (Weeks 5-12)
+
 - Deliverables: [List]
 - Milestones: [Key dates]
 - Resources: [Required]
 
 ### Phase 3: Pilot & Measure (Weeks 13-20)
+
 - Metrics: [Success criteria]
 - Scale Triggers: [Conditions]
 - Resources: [Required]
 
 ### Risk Register
+
 - [Risk]: [Mitigation]
 
 ### Investment Required
+
 - Phase 1: $[Amount]
 - Phase 2: $[Amount]
 - Phase 3: $[Amount]
@@ -344,4 +351,5 @@ Based on your response, I'll activate the right skills and guide you through a c
 
 ---
 
-*Remember: The journey is iterative. We can always cycle back, pivot, or dive deeper into any area as we learn more. The goal is validated learning and reducing risk at each stage.*
+_Remember: The journey is iterative. We can always cycle back, pivot, or dive deeper into any area as we learn more.
+The goal is validated learning and reducing risk at each stage._

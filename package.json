@@ -1,0 +1,32 @@
+{
+  "name": "hatch-lab",
+  "version": "1.0.0",
+  "description": "A comprehensive collection of Claude Skills that guide innovators, entrepreneurs, and product teams through systematic product strategy development and evaluation. These skills transform Claude into a specialized product strategy consultant, supporting new product development and innovation across industries.",
+  "private": true,
+  "packageManager": "pnpm@10.20.0",
+  "scripts": {
+    "format": "prettier --write '**/*.md'",
+    "format:check": "prettier --check '**/*.md'",
+    "lint": "markdownlint '**/*.md' --ignore .claude --ignore node_modules --ignore .archive",
+    "lint:fix": "markdownlint '**/*.md' --ignore .claude --ignore node_modules --ignore .archive --fix",
+    "deps:check": "ncu",
+    "deps:check:minor": "ncu --target minor",
+    "deps:check:patch": "ncu --target patch",
+    "deps:upgrade": "ncu -u",
+    "deps:upgrade:minor": "ncu -u --target minor",
+    "deps:upgrade:patch": "ncu -u --target patch",
+    "deps:upgrade:interactive": "ncu -i",
+    "audit": "pnpm audit",
+    "audit:fix": "pnpm audit --fix",
+    "security": "pnpm run audit"
+  },
+  "devDependencies": {
+    "markdownlint-cli": "^0.45.0",
+    "npm-check-updates": "^19.1.2",
+    "prettier": "^3.6.2"
+  },
+  "engines": {
+    "node": ">=22.0.0",
+    "pnpm": ">=10.20.0"
+  }
+}

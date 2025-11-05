@@ -5,7 +5,8 @@ description: Validates market demand, sizes opportunities, and analyzes competit
 
 # Market Validation Skill
 
-This skill helps you validate market opportunities, size addressable markets, and understand competitive dynamics. Using proven frameworks, we'll determine if your product idea has sufficient market potential.
+This skill helps you validate market opportunities, size addressable markets, and understand competitive dynamics. Using
+proven frameworks, we'll determine if your product idea has sufficient market potential.
 
 ## Core Capabilities
 
@@ -24,7 +25,7 @@ I can help you:
 
 #### TAM (Total Addressable Market)
 
-```text
+```
 TAM = [Total Potential Users] × [Annual Value per User]
 ```
 
@@ -36,7 +37,7 @@ Methods I'll guide you through:
 
 #### SAM (Serviceable Addressable Market)
 
-```text
+```
 SAM = TAM × [Geographic Reach %] × [Product Fit %]
 ```
 
@@ -49,7 +50,7 @@ Factors we'll consider:
 
 #### SOM (Serviceable Obtainable Market)
 
-```text
+```
 SOM = SAM × [Realistic Market Share %]
 ```
 
@@ -64,7 +65,7 @@ Based on:
 
 We'll define segments using:
 
-```text
+```
 DEMOGRAPHICS × PSYCHOGRAPHICS × BEHAVIORS × NEEDS
       ↓             ↓              ↓          ↓
    [Who]      [Why they buy]  [How they buy] [What they need]
@@ -74,14 +75,17 @@ DEMOGRAPHICS × PSYCHOGRAPHICS × BEHAVIORS × NEEDS
 
 ```markdown
 ### Segment: [Name]
+
 **Size**: [# of customers/organizations]
 **Characteristics**:
+
 - Demographics:
 - Firmographics (B2B):
 - Behaviors:
 - Needs:
 
 **Value Metrics**:
+
 - Annual Budget:
 - Purchasing Frequency:
 - Decision Process:
@@ -92,7 +96,7 @@ DEMOGRAPHICS × PSYCHOGRAPHICS × BEHAVIORS × NEEDS
 
 #### Competition Mapping Matrix
 
-```text
+```
          Low Functionality    High Functionality
          ↑                    ↑
 High    │ Overserved         │ Premium
@@ -132,7 +136,7 @@ Methods we'll employ:
 
 #### Trend Analysis
 
-```text
+```
 MACRO TRENDS
     ↓
 INDUSTRY SHIFTS
@@ -177,7 +181,7 @@ I'll help you create:
 
 ### Technology Adoption Lifecycle
 
-```text
+```
 Innovators → Early Adopters → Early Majority → Late Majority → Laggards
    2.5%         13.5%           34%              34%           16%
 ```
@@ -238,11 +242,13 @@ To conduct thorough validation:
 ## Market Opportunity Assessment
 
 ### Sizing
+
 - **TAM**: $[Amount] | [Calculation method]
 - **SAM**: $[Amount] | [Key constraints]
 - **SOM**: $[Amount] | [Share assumption]
 
 ### Growth Dynamics
+
 - **Market CAGR**: [%]
 - **Key Drivers**: [List]
 - **Timing Assessment**: [Early/Right/Late]
@@ -254,10 +260,12 @@ To conduct thorough validation:
 ## Competitive Landscape
 
 ### Direct Competitors
+
 | Company | Strength | Weakness | Market Share |
-|---------|----------|----------|--------------|
+| ------- | -------- | -------- | ------------ |
 
 ### Our Positioning
+
 - **Differentiation**:
 - **Competitive Advantages**:
 - **Defensive Moat**:

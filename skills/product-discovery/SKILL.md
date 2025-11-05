@@ -5,7 +5,8 @@ description: Guides systematic exploration of problem spaces, customer needs, an
 
 # Product Discovery Skill
 
-This skill helps you systematically explore problem spaces and identify high-value opportunities for innovation. It combines established product discovery methodologies to uncover unmet needs and validate problem-solution fit.
+This skill helps you systematically explore problem spaces and identify high-value opportunities for innovation. It combines
+established product discovery methodologies to uncover unmet needs and validate problem-solution fit.
 
 ## Core Capabilities
 
@@ -32,7 +33,7 @@ I'll guide you through defining your problem space by asking:
 
 For your identified stakeholders, we'll map:
 
-```text
+```
 BEFORE → DURING → AFTER
 │         │         │
 ├─ Triggers      ├─ Actions       ├─ Outcomes
@@ -67,7 +68,7 @@ We'll decompose customer needs into:
 
 Using insights gathered, we'll frame problems as:
 
-```text
+```
 [STAKEHOLDER] needs a way to [JOB-TO-BE-DONE]
 because [INSIGHT/REASON]
 but [CURRENT BARRIER/LIMITATION]
@@ -78,14 +79,14 @@ which leads to [NEGATIVE OUTCOME]
 
 We'll evaluate opportunities using:
 
-| Criterion | Weight | Score (1-10) |
-|-----------|--------|--------------|
-| Problem Severity | 25% | ___ |
-| Frequency of Occurrence | 20% | ___ |
-| Market Size | 20% | ___ |
-| Solution Feasibility | 15% | ___ |
-| Competitive Advantage | 10% | ___ |
-| Strategic Alignment | 10% | ___ |
+| Criterion               | Weight | Score (1-10) |
+| ----------------------- | ------ | ------------ |
+| Problem Severity        | 25%    | \_\_\_       |
+| Frequency of Occurrence | 20%    | \_\_\_       |
+| Market Size             | 20%    | \_\_\_       |
+| Solution Feasibility    | 15%    | \_\_\_       |
+| Competitive Advantage   | 10%    | \_\_\_       |
+| Strategic Alignment     | 10%    | \_\_\_       |
 
 ## Discovery Artifacts
 
@@ -100,7 +101,7 @@ I'll help you create:
 
 ### Assumption Mapping
 
-```text
+```
 Known → Unknown
   ↓        ↓
 Safe → Risky
@@ -161,6 +162,7 @@ To maximize our discovery session, be prepared to discuss:
 
 ```markdown
 ## Problem Statement
+
 **For**: [target customer]
 **Who**: [key characteristic/need]
 **The**: [product name/category]
@@ -174,22 +176,27 @@ To maximize our discovery session, be prepared to discuss:
 
 ```markdown
 ## Opportunity: [Name]
+
 ### Problem
+
 - **Description**:
 - **Frequency**:
 - **Severity**:
 
 ### Customer
+
 - **Segment**:
 - **Size**:
 - **Willingness to Pay**:
 
 ### Solution Direction
+
 - **Core Capability**:
 - **Key Differentiator**:
 - **Technical Approach**:
 
 ### Validation Plan
+
 - **Hypothesis**:
 - **Test Method**:
 - **Success Criteria**:

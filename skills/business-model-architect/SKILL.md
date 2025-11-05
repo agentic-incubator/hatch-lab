@@ -5,7 +5,8 @@ description: Designs sustainable business models, revenue strategies, and unit e
 
 # Business Model Architect Skill
 
-This skill helps you design sustainable business models, craft compelling value propositions, and build sound unit economics for your product or service.
+This skill helps you design sustainable business models, craft compelling value propositions, and build sound unit economics
+for your product or service.
 
 ## Core Capabilities
 
@@ -22,7 +23,7 @@ I can help you:
 
 ### Step 1: Business Model Canvas Development
 
-```text
+```
 ┌─────────────┬──────────────┬────────────────┬──────────────┬─────────────┐
 │    Key      │     Key      │     Value      │  Customer    │  Customer   │
 │  Partners   │  Activities  │  Propositions  │Relationships │  Segments   │
@@ -38,7 +39,7 @@ I can help you:
 
 #### Value Proposition Canvas
 
-```text
+```
 CUSTOMER PROFILE          VALUE MAP
 ┌─────────────┐           ┌─────────────┐
 │   GAINS     │ ←------→  │  GAIN       │
@@ -81,15 +82,15 @@ CUSTOMER PROFILE          VALUE MAP
 
 #### Pricing Methodology Framework
 
-```text
+```
 COST-BASED           VALUE-BASED          COMPETITION-BASED
      ↓                    ↓                      ↓
 Cost + Margin     Value Created × %        Market Rate ± %
      ↓                    ↓                      ↓
   FLOOR              CEILING              POSITIONING
-     └────────────────┬────────────────┘
-                      ↓
-               OPTIMAL PRICE
+     └────────────────────┬──────────────────────┘
+                          ↓
+                    OPTIMAL PRICE
 ```
 
 #### Pricing Psychology Tactics
@@ -104,7 +105,7 @@ Cost + Margin     Value Created × %        Market Rate ± %
 
 #### SaaS Unit Economics
 
-```text
+```
 CAC (Customer Acquisition Cost)
 ├─ Marketing Spend / New Customers
 ├─ Sales Costs / New Customers
@@ -121,7 +122,7 @@ Payback Period Target: <12 months
 
 #### Marketplace Unit Economics
 
-```text
+```
 Take Rate: Commission %
 ├─ GMV (Gross Merchandise Value)
 ├─ Net Revenue = GMV × Take Rate
@@ -139,7 +140,7 @@ Unit Economics per Transaction:
 
 #### Revenue Projection Model
 
-```text
+```
 Year 1    Year 2    Year 3    Year 4    Year 5
 ├─────────┼─────────┼─────────┼─────────┼─────────┤
 Customers:
@@ -168,7 +169,7 @@ I'll help you create:
 
 ### Network Effects Design
 
-```text
+```
 DIRECT NETWORK EFFECTS
 Users ↔ Users
 (Social networks, messaging)
@@ -215,14 +216,17 @@ Data → Better Product → More Users → More Data
 
 ```markdown
 ### Value Proposition
+
 For distributed design teams who struggle with version control and feedback loops, our AI-powered platform provides real-time collaboration with intelligent suggestions, unlike traditional tools that require manual coordination.
 
 ### Revenue Model
+
 - **Core**: Team subscriptions ($50/user/month)
 - **Enterprise**: Custom pricing + services
 - **Marketplace**: 30% commission on templates
 
 ### Unit Economics (at scale)
+
 - CAC: $500
 - LTV: $2,400
 - LTV:CAC: 4.8:1
@@ -230,6 +234,7 @@ For distributed design teams who struggle with version control and feedback loop
 - Gross Margin: 75%
 
 ### 3-Year Projection
+
 - Year 1: $2M ARR (200 customers)
 - Year 2: $8M ARR (800 customers)
 - Year 3: $25M ARR (2,500 customers)
@@ -281,28 +286,33 @@ To design your business model:
 ## Business Model: [Product Name]
 
 ### Overview
+
 **Model Type**: [e.g., SaaS, Marketplace, Platform]
 **Primary Revenue**: [e.g., Subscription]
 **Target Market**: [Segment description]
 
 ### Value Proposition
+
 [Clear statement of value created]
 
 ### Revenue Streams
+
 1. **Primary**: [Description & Pricing]
 2. **Secondary**: [If applicable]
 3. **Future**: [Growth opportunities]
 
 ### Cost Structure
+
 **Fixed Costs**:
 **Variable Costs**:
 **Key Drivers**:
 
 ### Unit Economics
-- Customer Acquisition Cost: $___
-- Lifetime Value: $___
-- Gross Margin: ___%
-- Payback Period: ___ months
+
+- Customer Acquisition Cost: $\_\_\_
+- Lifetime Value: $\_\_\_
+- Gross Margin: \_\_\_%
+- Payback Period: \_\_\_ months
 ```
 
 ### Pricing Strategy
@@ -311,13 +321,15 @@ To design your business model:
 ## Pricing Strategy
 
 ### Pricing Tiers
-| Tier | Price | Features | Target |
-|------|-------|----------|--------|
-| Basic | $X | [...] | [...] |
-| Pro | $Y | [...] | [...] |
-| Enterprise | Custom | [...] | [...] |
+
+| Tier       | Price  | Features | Target |
+| ---------- | ------ | -------- | ------ |
+| Basic      | $X     | [...]    | [...]  |
+| Pro        | $Y     | [...]    | [...]  |
+| Enterprise | Custom | [...]    | [...]  |
 
 ### Pricing Rationale
+
 - **Value Basis**:
 - **Competition Comparison**:
 - **Willingness to Pay**:
